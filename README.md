@@ -1,11 +1,11 @@
 # Extracredit3part1
 int main(void){
 
-int read;
+float read;
 
-scanf("%d", &read);
+scanf("%f", &read);
 
-printf("%d", read);
+printf("%f", read);
 
 return 0;
 
